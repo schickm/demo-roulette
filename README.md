@@ -14,8 +14,13 @@ Create a json file with an object containing your names/repos:
 
 ## Usage
 
-* `npm install -g git+https://git@github.com/schickm/demo-roulette.git`
-* `demoroulette name_and_repos.json`
+Install 
+
+`npm install -g git+https://git@github.com/schickm/demo-roulette.git`
+
+Run the tool with your file of name/repos
+
+ `demoroulette name_and_repos.json`
 
 ## Why node?
 
