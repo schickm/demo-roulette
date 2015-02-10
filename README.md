@@ -12,11 +12,11 @@ Create a json file with an object containing your names/repos:
 }
 ```
 
-## Usage
-
-Install 
+## Installation
 
 `npm install -g git+https://git@github.com/schickm/demo-roulette.git`
+
+## Usage
 
 Run the tool with your file of name/repos
 
