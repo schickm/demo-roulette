@@ -3,7 +3,7 @@ Randomly clones a Meteor Repository, starts it, and opens the source code in you
 
 ## Setup
 
-Copy the `example-repositories.txt` file and rename it `repositories.txt`.  Add your own repositories following the format of the example file.
+Copy the `example-repositories.json` file and rename it `repositories.json`.  Add your own repositories following the format of the example file.
 
 ## Usage
 

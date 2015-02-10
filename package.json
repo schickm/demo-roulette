@@ -1,0 +1,19 @@
+{
+  "name": "demo-roulette",
+  "version": "1.0.0",
+  "description": "Randomly clones a Meteor Repository, starts it, and opens the source code in your editor",
+  "main": "lib/demo-roulette.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/schickm/demo-roulette.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schickm/demo-roulette/issues"
+  },
+  "homepage": "https://github.com/schickm/demo-roulette"
+}
