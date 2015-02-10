@@ -3,11 +3,19 @@ Randomly clones a Meteor Repository, starts it, and opens the source code in you
 
 ## Setup
 
-Copy the `example-repositories.json` file and rename it `repositories.json`.  Add your own repositories following the format of the example file.
+Create a json file with an object containing your names/repos:
+
+```
+{
+	"Some Person": "https://github.com/aothsoaue/microscope",
+	"Another Person": "https://github.com/aoeuo/microscope"
+}
+```
 
 ## Usage
 
-Run `roulette.sh`.  
+* `npm install -g git+https://git@github.com/schickm/demo-roulette.git`
+* `demoroulette name_and_repos.json`
 
 ## Why node?
 
