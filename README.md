@@ -8,3 +8,7 @@ Copy the `example-repositories.json` file and rename it `repositories.json`.  Ad
 ## Usage
 
 Run `roulette.sh`.  
+
+## Why node?
+
+This tool was written for a class learning Node.js.  Otherwise I would have just used a shell script.
